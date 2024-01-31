@@ -1,2 +1,2 @@
 # popbuilder
-For poptoken-builder sample code
+Temporary site for poptoken-builder sample code - now removed per Co. policy.
